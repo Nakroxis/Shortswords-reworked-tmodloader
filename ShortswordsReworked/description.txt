@@ -1,0 +1,1 @@
+Shortswords Reworked makes the vanilla shortswords work just like they work in 1.4.

@@ -1,0 +1,7 @@
+displayName = Shortswords Reworked
+author = Nakroxis
+version = 1.0
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+hideCode = false
+hideResources = false
